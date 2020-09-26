@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418600397656",
+    "firebase_url": "https://ldx-signin-new.firebaseio.com",
+    "project_id": "ldx-signin-new",
+    "storage_bucket": "ldx-signin-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418600397656:android:ef10272eafa008284b532d",
+        "android_client_info": {
+          "package_name": "in.co.ldx.ldx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418600397656-csok0f02oif9foocp3khihmkcq8lhfhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuzybuT1XUjAqH37lZJCL7EaSHbWQivg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418600397656-csok0f02oif9foocp3khihmkcq8lhfhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
